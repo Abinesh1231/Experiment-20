@@ -1,4 +1,3 @@
-
 # My Project
 
 This is my personal GitHub project.
